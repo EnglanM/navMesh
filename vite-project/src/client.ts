@@ -1,7 +1,7 @@
 
 import * as THREE from 'three'
 import { OrbitControls } from 'three/examples/jsm/Addons.js'
-import { GUI } from 'three/examples/jsm/libs/lil-gui.module.min.js'
+// import { GUI } from 'three/examples/jsm/libs/lil-gui.module.min.js'
 import Stats from 'three/examples/jsm/libs/stats.module.js'
 // const recastdetourjs = require('recastdetourjs')
 
