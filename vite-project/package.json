@@ -15,8 +15,9 @@
     "vite": "^4.4.5"
   },
   "dependencies": {
-    "@recast-navigation/three": "^0.13.3",
+    "@recast-navigation/three": "^0.16.0",
     "dat.gui": "^0.7.9",
+    "recast-navigation": "^0.16.0",
     "three": "^0.158.0"
   }
 }
